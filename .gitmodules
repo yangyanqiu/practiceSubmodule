@@ -1,6 +1,3 @@
 [submodule "secondChild"]
 	path = secondChild
 	url = https://github.com/yangyanqiu/practiceSubmodule.git/secondChild.git
-[submodule "Demo"]
-	path = Demo
-	url = https://github.com/yangyanqiu/practiceSubmodule.git/demo.git
