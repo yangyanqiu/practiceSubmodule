@@ -1,6 +1,6 @@
 [submodule "secondChild"]
 	path = secondChild
-	url = https://github.com/yangyanqiu/practiceSubmodule.git/secondChild.git
+	url = /Users/Omni_JBL_Test/Desktop/JBL Large/yanqiu/github/practiceSubmodule/secondChild/
 [submodule "practiceSubmodule"]
 	path = practiceSubmodule
 	url = https://github.com/yangyanqiu/practiceSubmodule
