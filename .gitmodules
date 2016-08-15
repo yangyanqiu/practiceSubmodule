@@ -7,3 +7,6 @@
 [submodule "Demo"]
 	path = Demo
 	url = https://github.com/yangyanqiu/Demo
+[submodule "Son"]
+	path = Son
+	url = /Users/Omni_JBL_Test/Desktop/JBL Large/yanqiu/github/practiceSubmodule/Son
